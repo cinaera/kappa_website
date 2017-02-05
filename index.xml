@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kappa - Teeworlds Clan</title>
-    <link>http://example.org/index.xml</link>
+    <link>https://cinaera.github.io/kappa_website/index.xml</link>
     <description>Recent content on Kappa - Teeworlds Clan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cinaera.github.io/kappa_website/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
